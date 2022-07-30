@@ -37,7 +37,7 @@ We analyzed the spikes related to the presentation of the reward and non-reward 
 
 ### Models
 
-Threee reward classification models (Ridge logistic regression, 5-Fold-CV) were implemented to describe the reward phenomenon.
+Threee reward classification models (Ridge logistic regression, 5-Fold-CV) were implemented to describe the reward phenomenon (to see how we've implemented these models, see `Model_implementation.ipynb` file).
 - Model 1: Model trained with **all features**
 ![image](https://user-images.githubusercontent.com/79924152/181862736-5ac5c900-ffb7-4c2f-8ec0-d77d763c7852.png)
 
