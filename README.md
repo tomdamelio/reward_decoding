@@ -1,5 +1,11 @@
 
-2022 NMA project on [Steinmetz dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913580/)
+2022 NMA project on [Steinmetz dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913580/) by:
+- Juan Camilo Higuera Calderon
+- Thaiz Priscilla Sánchez Costa
+- Camilo Berutti
+- Joel Angel Gonzales Flores
+- Luis Felipe Sarmiento Rivera
+- Tomas D'Amelio 
 
 # Global and local functional connectivity properties: a reward predictive model approach
 
@@ -16,12 +22,14 @@ However, several studies have shown that distributed patterns of functional conn
 **Q2:** Which topological properties (global vs. local patterns) best explain reward predictions?
 
 ![image](https://user-images.githubusercontent.com/79924152/181863019-feb89509-f7a8-4a72-9c12-6c6dab9b890a.png)
+
 **Figure 1.** Example of the functional connectivity of a mouse session according to reward and non-reward conditions (Steinmetz et al, 2019) 
 
 
 ## Hypothesis
 
-It was expected that Model 1 would perform significantly better than chance. Then, we hypothesized that higher values in the centrality of nodes belonging to midbrain structures will be associated with an increase in the probability of reward classification.
+- Model 1 (logistic regression trained with local and global connectivity variables) would perform significantly better than chance.
+- Higher values in the centrality of nodes belonging to midbrain structures will be associated with an increase in the probability of reward classification.
 
 ## Methods
 
@@ -54,6 +62,7 @@ From this, we got mainly two conclusions:
 2. At the local level, in the midbrain and basal ganglia nodes, we found opposite topological properties to what we found at the global level, which could indicate a differential processing of these nodes during reward.
 
 ![image](https://user-images.githubusercontent.com/79924152/181863316-5559c28a-1825-44a7-bea8-11c946969d74.png)
+
 **Figure 4.** Cross-validated accuracies by type of model ("local", "global" or "local+global").
 
 We could observe that there would be no difference between the performance of the models that had only local variables or only local variables. However, the model trained with both types of varibels achieved a worse perormance. Is it possible that this is due to the *curse of dimensionality*?
