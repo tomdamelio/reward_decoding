@@ -23,7 +23,7 @@ However, several studies have shown that distributed patterns of functional conn
 
 ![image](https://user-images.githubusercontent.com/79924152/181863019-feb89509-f7a8-4a72-9c12-6c6dab9b890a.png)
 
-**Figure 1.** Example of the functional connectivity of a mouse session according to reward and non-reward conditions (Steinmetz et al, 2019) 
+**Figure 1.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
 
 
 ## Hypothesis
