@@ -10,8 +10,8 @@
 # Global and local functional connectivity properties: a reward predictive model approach
 
 Reward coding was extensively studied at the level of single cells in dopaminergic systems, mainly in:
-- **midbrain** (e.g. VTA)
-- **basal ganglia** (e.g. Striatum)
+-  **midbrain** (e.g. VTA)
+-  **basal ganglia** (e.g. Striatum)
 
 However, several studies have shown that distributed patterns of functional connectivity could represent diverse cognitive phenomena.  
 
