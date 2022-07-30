@@ -24,7 +24,10 @@ Figure 1. Example of the functional connectivity of a mouse session according to
 Threee reward classification models (Ridge logistic regression, 5-Fold-CV) were implemented to describe the reward phenomenon.
 - Model 1:
 
-[![\\ log(\frac{P(Reward)}{1-P(Reward)}) = \beta_0 + \beta_1X_1 + \beta_2X_2 ... + \beta_{14}X_{14} + \beta_{15}X_{15} + \beta_{16}X_{16} + ... + \beta_{30}X_{30}](https://latex.codecogs.com/svg.latex?%5C%5C%20log(%5Cfrac%7BP(Reward)%7D%7B1-P(Reward)%7D)%20%3D%20%5Cbeta_0%20%2B%20%5Cbeta_1X_1%20%2B%20%5Cbeta_2X_2%20...%20%2B%20%5Cbeta_%7B14%7DX_%7B14%7D%20%2B%20%5Cbeta_%7B15%7DX_%7B15%7D%20%2B%20%5Cbeta_%7B16%7DX_%7B16%7D%20%2B%20...%20%2B%20%5Cbeta_%7B30%7DX_%7B30%7D)](#_)- Model 2:
+![image](https://user-images.githubusercontent.com/79924152/181862736-5ac5c900-ffb7-4c2f-8ec0-d77d763c7852.png)
+
+
+- Model 2:
 
 - Model 3:
 
