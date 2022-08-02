@@ -1,7 +1,7 @@
 
 2022 NMA project on [Steinmetz dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913580/) by:
 - Juan Camilo Higuera Calderon
-- Thaiz Priscilla Sánchez Costa
+- Thaiz Priscilla Sánchez-Costa
 - Camilo Berutti
 - Joel Angel Gonzales Flores
 - Luis Felipe Sarmiento Rivera
